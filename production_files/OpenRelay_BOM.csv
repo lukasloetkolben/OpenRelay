@@ -1,0 +1,11 @@
+Id;Designator;Package;Quantity;Designation;Supplier and ref;;
+1;D1;DIO_BAV21W_RHG;1;BAV21W_RHG;;;
+2;R8,R7,R1;R_2010_5025Metric_Pad1.40x2.65mm_HandSolder;3;120R;;;
+3;R6,R5;R_2010_5025Metric_Pad1.40x2.65mm_HandSolder;2;10R;;;
+4;J3;RJ45_Amphenol_54602-x08_Horizontal;1;RJ45;;;
+5;CR1;TO-277;1;FSV20100V;;;
+6;J1;Molex_iGrid 501876_5018762640;1;5018762640;;;
+7;R4;R_2010_5025Metric_Pad1.40x2.65mm_HandSolder;1;1K;;;
+8;Q1;SOT-23;1;SO2222;;;
+9;J2;USB_C_Receptacle_Amphenol_12401548E4-2A;1;USB_C_Receptacle;;;
+10;K1;RELAY_G6K-2P-Y_DC3;1;G6K-2P-Y_DC3;;;
