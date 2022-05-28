@@ -1,4 +1,4 @@
-# Opensource Relay for Openpilot
+# Open Source Relay for Openpilot
 
 If you have any questions contact me on Discord: loetkolben#2962
 
