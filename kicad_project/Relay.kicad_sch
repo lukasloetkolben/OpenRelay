@@ -2000,7 +2000,7 @@
     (uuid 2ebd1ab7-6b00-4f47-9ae5-5b1a5cb895f3)
     (property "Reference" "R6" (id 0) (at 208.28 144.78 90))
     (property "Value" "10R" (id 1) (at 208.28 147.32 90))
-    (property "Footprint" "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder" (id 2) (at 208.28 149.098 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 208.28 149.098 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 208.28 147.32 0)
@@ -2037,7 +2037,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3b96dd1f-6d50-42aa-a2cb-6b3371b0fc1e)
     (property "Reference" "Q1" (id 0) (at 165.1 153.67 90))
-    (property "Value" "CMPT5551" (id 1) (at 165.1 156.21 90))
+    (property "Value" "SO2222" (id 1) (at 165.1 156.21 90))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 163.195 152.4 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
@@ -2340,7 +2340,7 @@
     (uuid 9082a5b8-b931-4a90-9fc7-b83f10b93a4b)
     (property "Reference" "R5" (id 0) (at 208.28 137.16 90))
     (property "Value" "10R" (id 1) (at 208.28 139.7 90))
-    (property "Footprint" "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder" (id 2) (at 208.28 141.478 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 208.28 141.478 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 208.28 139.7 0)
@@ -2592,7 +2592,7 @@
       (reference "K1") (unit 1) (value "G6K-2P-Y_DC5") (footprint "Relay:RELAY_G6K-2P-Y_DC3")
     )
     (path "/3b96dd1f-6d50-42aa-a2cb-6b3371b0fc1e"
-      (reference "Q1") (unit 1) (value "CMPT5551") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "Q1") (unit 1) (value "SO2222") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/aecf3d86-5150-491a-a65a-7fc5532943ba"
       (reference "R1") (unit 1) (value "120R") (footprint "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder")
@@ -2601,10 +2601,10 @@
       (reference "R4") (unit 1) (value "1K") (footprint "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder")
     )
     (path "/9082a5b8-b931-4a90-9fc7-b83f10b93a4b"
-      (reference "R5") (unit 1) (value "10R") (footprint "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder")
+      (reference "R5") (unit 1) (value "10R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/2ebd1ab7-6b00-4f47-9ae5-5b1a5cb895f3"
-      (reference "R6") (unit 1) (value "10R") (footprint "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder")
+      (reference "R6") (unit 1) (value "10R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/61ca9abc-6f18-4305-a8c6-737a044688c3"
       (reference "R7") (unit 1) (value "120R") (footprint "Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder")
