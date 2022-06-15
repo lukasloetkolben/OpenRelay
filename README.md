@@ -1,6 +1,6 @@
 # Open Source Relay for Openpilot
 
-**_Warning:_**  This Device is untested!
+**_Note:_**  This Device is tested!
 
 If you have any questions contact me on Discord: loetkolben#2962
 
