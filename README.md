@@ -1,4 +1,4 @@
-# Open Source Relay for Openpilot
+# Opensource harness box / relay for Openpilot
 
 **_Note:_**  the device has been tested and works perfectly!
 
