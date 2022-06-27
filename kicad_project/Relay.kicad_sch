@@ -2257,7 +2257,7 @@
     (property "Value" "USB_C_Receptacle" (id 1) (at 243.84 88.8999 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401548E4-2A" (id 2) (at 227.33 82.55 0)
+    (property "Footprint" "Relay:TYPE-C-31-M-04" (id 2) (at 227.33 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 227.33 82.55 0)
@@ -2668,7 +2668,7 @@
       (reference "J1") (unit 1) (value "5018762640") (footprint "Connector_JST:JST_PHD_B26B-PHDSS_2x13_P2.00mm_Vertical")
     )
     (path "/5abc6ae4-0eef-40a4-813f-08a489752b6e"
-      (reference "J2") (unit 1) (value "USB_C_Receptacle") (footprint "Connector_USB:USB_C_Receptacle_Amphenol_12401548E4-2A")
+      (reference "J2") (unit 1) (value "USB_C_Receptacle") (footprint "Relay:TYPE-C-31-M-04")
     )
     (path "/4e10830e-8b39-46a9-8dc1-85b40a1697bd"
       (reference "J3") (unit 1) (value "RJ45") (footprint "Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal")
